@@ -25,7 +25,7 @@ const SocialAuthForm = () => {
           height={20}
           width={20}
         />
-        <span>Login with Gmail</span>
+        <span>Login with Google</span>
       </Button>
     </div>
   );
